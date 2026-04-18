@@ -1,4 +1,29 @@
 # mr-input
+MR Input
+A minimal, vowel‑first Japanese input method.
+
+日本語入力方式を、母音キーから再設計した新しいローマ字入力です。
+
+MR Input keeps the traditional consonant→vowel typing order,  
+but restructures the keyboard by placing all vowels on a single central key.  
+This central vowel key naturally determines the positions of all consonants,  
+creating a shorter, more consistent C→V movement and reducing cognitive load.
+
+This approach offers:
+
+- Consistent key patterns for all Japanese syllables  
+- Lower mental overhead compared to standard romaji input  
+- A compact, ergonomic keyboard layout  
+- Fast, uninterrupted typing flow  
+
+MR Input is not a new IME engine.  
+It is a new input method — a structural redesign of how Japanese text can be typed.
+
+If you try it, you’ll understand the difference.
+
+Keywords (for discoverability)
+Japanese input method / romaji input / text input system / keyboard layout / vowel-first input / minimal-key typing / low cognitive load / C→V structure
+`
 MR Input — 母音1キー化による最小構造の日本語入力方式の一種で、ローマ字入力・フリック入力・日本語 IME・スマホ用キーボード設計などに関心のある開発者向けの方式です。
 
 特徴は「母音ワンキー化」による指の移動量の最小化で、日本語キーボードの新しい設計や IME 実装に利用できます。
